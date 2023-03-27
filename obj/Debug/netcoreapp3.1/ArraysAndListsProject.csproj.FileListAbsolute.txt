@@ -1,0 +1,14 @@
+C:\Users\npjt2\Desktop\repos\ArraysAndListsProject\obj\Debug\netcoreapp3.1\ArraysAndListsProject.csproj.AssemblyReference.cache
+C:\Users\npjt2\Desktop\repos\ArraysAndListsProject\obj\Debug\netcoreapp3.1\ArraysAndListsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\npjt2\Desktop\repos\ArraysAndListsProject\obj\Debug\netcoreapp3.1\ArraysAndListsProject.AssemblyInfoInputs.cache
+C:\Users\npjt2\Desktop\repos\ArraysAndListsProject\obj\Debug\netcoreapp3.1\ArraysAndListsProject.AssemblyInfo.cs
+C:\Users\npjt2\Desktop\repos\ArraysAndListsProject\obj\Debug\netcoreapp3.1\ArraysAndListsProject.csproj.CoreCompileInputs.cache
+C:\Users\npjt2\Desktop\repos\ArraysAndListsProject\bin\Debug\netcoreapp3.1\ArraysAndListsProject.exe
+C:\Users\npjt2\Desktop\repos\ArraysAndListsProject\bin\Debug\netcoreapp3.1\ArraysAndListsProject.deps.json
+C:\Users\npjt2\Desktop\repos\ArraysAndListsProject\bin\Debug\netcoreapp3.1\ArraysAndListsProject.runtimeconfig.json
+C:\Users\npjt2\Desktop\repos\ArraysAndListsProject\bin\Debug\netcoreapp3.1\ArraysAndListsProject.runtimeconfig.dev.json
+C:\Users\npjt2\Desktop\repos\ArraysAndListsProject\bin\Debug\netcoreapp3.1\ArraysAndListsProject.dll
+C:\Users\npjt2\Desktop\repos\ArraysAndListsProject\bin\Debug\netcoreapp3.1\ArraysAndListsProject.pdb
+C:\Users\npjt2\Desktop\repos\ArraysAndListsProject\obj\Debug\netcoreapp3.1\ArraysAndListsProject.dll
+C:\Users\npjt2\Desktop\repos\ArraysAndListsProject\obj\Debug\netcoreapp3.1\ArraysAndListsProject.pdb
+C:\Users\npjt2\Desktop\repos\ArraysAndListsProject\obj\Debug\netcoreapp3.1\ArraysAndListsProject.genruntimeconfig.cache
